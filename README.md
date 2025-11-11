@@ -50,7 +50,7 @@ I aim to grow into a role where I can **analyze real-time security events, respo
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/nkosingiphile-koza-0a0139205)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nkosingiphile-koza)  
 - 📧 Email: kozankosi.kn@gmail.com  
 - 🧠 TryHackMe: nkosingiphilekoza.kn(https://tryhackme.com/p/nkosingiphilekoza.kn)  
 - 🖥️ Portfolio: (coming soon)
